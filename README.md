@@ -1,7 +1,7 @@
 
 # Urban Bike Company Data Visualisation
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/8b2b7d7a-8990-494d-a5f7-e251388567be?ctid=bd3874a7-bd2b-42d5-8df8-03bf474bc03c&pbi_source=linkShare&bookmarkGuid=f590fdac-0b28-4056-add7-4c19597ec352
+
 
 ## Problem Statement
 
